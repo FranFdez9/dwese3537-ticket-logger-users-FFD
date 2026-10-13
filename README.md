@@ -25,3 +25,6 @@ Ticker-Logger es un proyecto académico del ciclo de Desarrollo de Aplicaciones 
 
 ## Enlaces de interés
 - [Documentación oficial de Java](https://docs.oracle.com/en/java/)
+
+## Arquitectura de la aplicación
+![Visual de la app]()
