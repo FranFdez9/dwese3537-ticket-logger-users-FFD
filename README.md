@@ -32,3 +32,7 @@ Ticker-Logger es un proyecto académico del ciclo de Desarrollo de Aplicaciones 
 ## Documentación relacionada
 
 [![Logotipo de Jakarta EE](https://commons.wikimedia.org/wiki/Special:Redirect/file/Jakarta_ee_logo_schooner_color_horizontal_default.svg)](https://jakarta.ee/)
+
+
+## Acceso a historial de cambios
+- [Historial de cambios (CHANGELOG)](CHANGELOG.md)
