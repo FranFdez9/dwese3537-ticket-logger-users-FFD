@@ -88,12 +88,14 @@ En el archivo [CHANGELOG.md](CHANGELOG.md), donde se registra el historial de ca
 
 ## Diagrama de arquitectura
 
+## Diagrama de arquitectura
+
 ```mermaid
 flowchart TD
-    A["Usuario / Navegador"] --> B["JSP - Interfaz web"]
-    B --> C["Servlets Java"]
-    C --> D["DAO / Acceso a datos"]
-    D --> E[("Base de datos MariaDB")]
+    A[Usuario / Navegador] --> B[JSP - Interfaz web]
+    B --> C[Servlets Java]
+    C --> D[DAO / Acceso a datos]
+    D --> E[(Base de datos MariaDB)]
     E --> D
     D --> C
     C --> B
