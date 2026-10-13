@@ -36,3 +36,13 @@ Ticker-Logger es un proyecto académico del ciclo de Desarrollo de Aplicaciones 
 
 ## Acceso a historial de cambios
 - [Historial de cambios (CHANGELOG)](CHANGELOG.md)
+
+
+## Tareas pendientes
+
+- [x] Crear la documentación inicial del proyecto.
+- [x] Añadir el diagrama de arquitectura.
+- [x] Crear el historial de cambios (`CHANGELOG.md`).
+- [ ] Revisar y ampliar la documentación técnica.
+- [x] Ejecutar las pruebas de la aplicación.
+- [x] Comprobar que la aplicación se despliega correctamente con Docker.
