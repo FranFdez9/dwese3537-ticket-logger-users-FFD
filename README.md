@@ -28,3 +28,7 @@ Ticker-Logger es un proyecto académico del ciclo de Desarrollo de Aplicaciones 
 
 ## Arquitectura de la aplicación
 ![Visual de la app](https://github.com/FranFdez9/dwese3537-ticket-logger-users-FFD/blob/main/images/Diagrama%20de%20ingenier%C3%ADa%20inversa.png)
+
+## Documentación relacionada
+
+[![Logotipo de Jakarta EE](https://commons.wikimedia.org/wiki/Special:Redirect/file/Jakarta_ee_logo_schooner_color_horizontal_default.svg)](https://jakarta.ee/)
