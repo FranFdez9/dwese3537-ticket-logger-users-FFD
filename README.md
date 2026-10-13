@@ -60,3 +60,28 @@ Ticker-Logger es un proyecto académico del ciclo de Desarrollo de Aplicaciones 
 La documentación se ha elaborado como parte de las actividades del ciclo DAW.[^1]
 
 [^1]: DAW significa Desarrollo de Aplicaciones Web.
+
+
+
+## Preguntas frecuentes (FAQ)
+
+<details>
+<summary>¿Cuál es el objetivo del proyecto?</summary>
+
+Practicar el desarrollo de aplicaciones web con Java y las tecnologías utilizadas en el proyecto.
+
+</details>
+
+<details>
+<summary>¿Qué tecnologías utiliza Ticker-Logger?</summary>
+
+El proyecto utiliza Java, Jakarta Servlets, Maven, Jetty, Docker y MariaDB.
+
+</details>
+
+<details>
+<summary>¿Dónde puedo consultar los cambios del proyecto?</summary>
+
+En el archivo [CHANGELOG.md](CHANGELOG.md), donde se registra el historial de cambios.
+
+</details>
