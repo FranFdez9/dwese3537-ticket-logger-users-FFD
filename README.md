@@ -46,3 +46,17 @@ Ticker-Logger es un proyecto académico del ciclo de Desarrollo de Aplicaciones 
 - [ ] Revisar y ampliar la documentación técnica.
 - [x] Ejecutar las pruebas de la aplicación.
 - [x] Comprobar que la aplicación se despliega correctamente con Docker.
+
+## Avisos importantes
+
+> [!NOTE]
+> Este proyecto se desarrolla con fines académicos para practicar tecnologías de desarrollo web.
+
+> [!WARNING]
+> Antes de desplegar la aplicación en un entorno real, revisa la configuración de la base de datos y las variables de entorno.
+
+## Nota al pie
+
+La documentación se ha elaborado como parte de las actividades del ciclo DAW.[^1]
+
+[^1]: DAW significa Desarrollo de Aplicaciones Web.
