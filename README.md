@@ -86,12 +86,14 @@ En el archivo [CHANGELOG.md](CHANGELOG.md), donde se registra el historial de ca
 
 </details>
 
+
 ## Prueba Mermaid
 
 ```mermaid
 flowchart TD
     A[Inicio] --> B[Fin]
 ```
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
