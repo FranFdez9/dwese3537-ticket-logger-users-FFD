@@ -95,3 +95,11 @@ flowchart TD
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+
+
+## Licencia
+
+Este proyecto utiliza la licencia MIT, que permite consultar, reutilizar, modificar y distribuir el código, siempre que se mantengan el aviso de copyright y el texto de la licencia.
+
+Se ha elegido esta licencia porque es sencilla, permisiva y adecuada para facilitar el aprendizaje y la colaboración en un proyecto académico.
