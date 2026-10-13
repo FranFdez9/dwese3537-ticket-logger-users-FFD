@@ -85,3 +85,17 @@ El proyecto utiliza Java, Jakarta Servlets, Maven, Jetty, Docker y MariaDB.
 En el archivo [CHANGELOG.md](CHANGELOG.md), donde se registra el historial de cambios.
 
 </details>
+
+## Diagrama de arquitectura
+
+```mermaid
+flowchart TD
+    A[Usuario / Navegador] --> B[JSP - Interfaz web]
+    B --> C[Servlets Java]
+    C --> D[DAO / Acceso a datos]
+    D --> E[(Base de datos MariaDB)]
+    E --> D
+    D --> C
+    C --> B
+    B --> A
+```
