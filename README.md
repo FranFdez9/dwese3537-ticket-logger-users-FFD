@@ -88,8 +88,6 @@ En el archivo [CHANGELOG.md](CHANGELOG.md), donde se registra el historial de ca
 
 ## Diagrama de arquitectura
 
-## Diagrama de arquitectura
-
 ```mermaid
 flowchart TD
     A[Usuario / Navegador] --> B[JSP - Interfaz web]
